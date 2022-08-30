@@ -1,6 +1,20 @@
 
 // package com.bank;
-
+/*----basic banking application contains----
+*
+* After Run it will ask to enter following information:-
+* ------------------------------------------------------
+* Banking Menu: 
+* Select any one option from below. 
+* 1) Add Customer
+* 2) Change Customer Name
+* 3) Check Account Balance
+* 4) Update Account Balance
+* 5) Summary of All Accounts
+* 6) Quit
+* Enter your option:
+*
+*/
 import java.util.Scanner;
 
 public class Main {
